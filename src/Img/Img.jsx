@@ -1,0 +1,1 @@
+const photo = "C:\Users\NOKIA\Downloads\img\img for project.jpg";
