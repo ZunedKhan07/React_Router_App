@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  justify-items: center;
+  justify-items: center;
+  background-color: grey;
+  align-items: center;
+}
